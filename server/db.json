@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1500.99,
+      "description": "High-performance laptop with 32GB RAM and 512GB SSD.",
+      "stock": 10
+    },
+    {
+      "name": "Microphone",
+      "category": "Audio",
+      "price": 159.59,
+      "description": "Microphone processes and transmits signal in frequency range from 20Hz to 20kHz.",
+      "stock": 40,
+      "id": "2"
+    },
+    {
+      "id": "3631",
+      "name": "4K Monitor 27 inch",
+      "category": "Screens",
+      "price": 379.99,
+      "description": "Ultra-HD 4K monitor with 144Hz refresh rate.",
+      "stock": 15
+    }
+  ]
+}
